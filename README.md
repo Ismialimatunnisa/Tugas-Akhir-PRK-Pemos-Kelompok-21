@@ -16,6 +16,9 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 **Hidrodinamika**
 # 2. Metode 
 masukin script dan cara kerja tiap modul
+**Modul 3**
+HIDRODINAMIKA 1 DIMENSI
+
 # 3. Hasil Pemodelan
 tiap modul
 # 4. Pemanfaatan di Oseanografi
