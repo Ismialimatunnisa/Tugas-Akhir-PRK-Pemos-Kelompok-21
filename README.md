@@ -96,5 +96,14 @@ Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik ya
 
 Berbagai fenomena hidro-oseanografi dapat disimulasikan dengan model matematis dengan memperhatikan kondisi parameternya, seperti angin, arus laut, gelombang dan lain-lain. Fenomena aliran san transpor merupakan gejala yang penting untuk dikaji karena mempunyai pengaruh terhadap beberapa studi rekayasa. 
 Fenomena-fenomena tersebut teradi dalam berbagai macam situasi fisik, seperti transfer panas, proses pemisahan zat kimia, aliran fluida dalam media berpori, penyebaran kontaminan dalam cairan dan transpor partikel kecil berupa polutan, garam, sedimen di perairan dangkal.
-
 Persamaan Adveksi-Difusi dan Hidrodinamika digunakan dalam berbagai bidang, utamanya adalah dalam bidang Oseanografi. Persamaan yang akan digunakan terlebih dahulu dilakukan diskritisasi. 
+
+Manfaat dari persamaan adveksi-difusi adalah:
+1. Pemodelan persebaran polutan di laut
+2. Pemodelan _oil spill_ atau tumpahan minyak di laut
+3. Pemodelan persebaran bahan kimia pada luasan dan kedalaman tertentu
+4. Pemodelan persebaran material sedimen dalam perairan
+
+Manfaat dari persamaan hidrodinamika adalah:
+1. Pemodelan gelombang yang ditimbulkan oleh angin laut
+2. Pemodelan dinamika pantai
