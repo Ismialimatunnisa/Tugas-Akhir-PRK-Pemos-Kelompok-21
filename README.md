@@ -26,7 +26,7 @@ masukin script dan cara kerja tiap modul
 
 
 **Modul 2**
-Adveksi Difusi 2D**
+Adveksi-Difusi 2D
 
 1. Buka laman jupyter notebook, kemudian pilih new pyhton 3 untuk membuat script
 ![image](https://user-images.githubusercontent.com/105660616/169575203-41673726-0802-48cd-9562-83cce2747e62.png)
