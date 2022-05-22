@@ -1,5 +1,6 @@
 # Tugas Akhir Praktikum Pemos Kelompok 21
 Tugas akhir ini dibuat untuk memenuhi syarat Tugas Akhir Praktikum Pemodelan Oseanografi Tahun 2022. Harapannya, repositori ini dapat memberikan manfaat untuk semua orang.
+Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunakan, metode atau langkah-langkah pemodelan adveksi-difusi dan hidrodinamika dan penjelasan mengenai pemanfaatakn persamaan adveksi-difusi serta hidrodinamika dalam bidang Oseanografi. 
 
 # Nama Kelompok
 1. Ismi 'Alimatunnisa 26050120120034 Oseanografi A
