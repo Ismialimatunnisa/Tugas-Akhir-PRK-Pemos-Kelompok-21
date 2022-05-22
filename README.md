@@ -28,4 +28,7 @@ HIDRODINAMIKA 1 DIMENSI
 8. Lalu akan didapat hasil pemodelan berupa empat buah grafik yang menunjukan hubungan perubahan elevasi muka airlaut dan perubahan kecepatan arus. 
 # 3. Hasil Pemodelan
 tiap modul
+**Modul 3**
+![gambar 4](https://user-images.githubusercontent.com/92222622/169678441-fe704840-2ddb-4acc-afed-5c6aa9da7bb1.png)
+
 # 4. Pemanfaatan di Oseanografi
