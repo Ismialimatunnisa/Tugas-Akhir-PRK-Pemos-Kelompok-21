@@ -16,6 +16,7 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 **Hidrodinamika**
 # 2. Metode 
 masukin script dan cara kerja tiap modul
+
 **Modul 3**
 HIDRODINAMIKA 1 DIMENSI
 1. Pembuatan script dan pemodelan dapat dilakukan menggunakan aplikasi Visual Studio Code atau Jupyter Notebook (dibuka melalui Anaconda Prompt (miniconda 3)).
