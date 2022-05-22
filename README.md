@@ -65,7 +65,8 @@ HIDRODINAMIKA 1 DIMENSI
 
 7.
 
-![image](https://user-images.githubusercontent.com/92222622/169678289-78317c77-86bc-4557-a838-460251ede4c8.png)
+![WhatsApp Image 2022-05-22 at 23 25 24](https://user-images.githubusercontent.com/106017099/169705614-3aab6684-5654-438f-a8a8-6e6520e9fc82.jpeg)
+
 
 8. Lalu akan didapat hasil pemodelan berupa empat buah grafik yang menunjukan hubungan perubahan elevasi muka airlaut dan perubahan kecepatan arus. 
 # 3. Hasil Pemodelan
