@@ -29,6 +29,15 @@ HIDRODINAMIKA 1 DIMENSI
 # 3. Hasil Pemodelan
 tiap modul
 **Modul 3**
-![gambar 4](https://user-images.githubusercontent.com/92222622/169678441-fe704840-2ddb-4acc-afed-5c6aa9da7bb1.png)
+Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik yang mana salah satunya adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Menurut Triatmodjo (1999), berdasarkan kedalaman relatif, yaitu perbandingan kedalaman air dan panjang gelombang.
+Grafik 1
+![image](https://user-images.githubusercontent.com/92222622/169678484-2fa0fd7a-4a0e-49f7-81b6-35cc98315f17.png)
+Grafik 2
+![image](https://user-images.githubusercontent.com/92222622/169678512-462cc805-8c1b-4795-b6b5-ca16d1e012a4.png)
+Grafik 3
+![image](https://user-images.githubusercontent.com/92222622/169678533-9366f10e-f741-409a-a668-a20a0d4dffd4.png)
+Grafik 4
+![image](https://user-images.githubusercontent.com/92222622/169678549-fe19ab00-1ccc-4f1e-95f4-647119a0a477.png)
+
 
 # 4. Pemanfaatan di Oseanografi
