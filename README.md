@@ -1,5 +1,5 @@
 # Tugas Akhir Praktikum Pemos Kelompok 21
-Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Oseanografi 2022. Harapannya, repositori ini dapat memberikan manfaat untuk semua orang.
+Tugas akhir ini dibuat untuk memenuhi syarat Tugas Akhir Praktikum Pemodelan Oseanografi Tahun 2022. Harapannya, repositori ini dapat memberikan manfaat untuk semua orang.
 
 # Nama Kelompok
 1. Ismi 'Alimatunnisa 26050120120034 Oseanografi A
@@ -36,19 +36,19 @@ Adveksi-Difusi 2D
 ![image](https://user-images.githubusercontent.com/105741300/169245860-8eb49961-1fac-436a-ad41-66c719b79c5b.png)
 4. Kemudian dibuat script perhitungan untuk mengetahui persebaran polutan
 ![image](https://user-images.githubusercontent.com/105741300/169246416-32b33897-5f23-4d2d-aab0-a8839ec3b67e.png)
-5. Setelah itu membuat script untuk membuatan _grid dari persebaran polutan
+5. Setelah itu membuat script untuk pembuatan _grid_ dari persebaran polutan
 ![image](https://user-images.githubusercontent.com/105741300/169247085-4979a547-7888-408f-8e68-e516ba98ca78.png)
 6. Selanjutnya melakukan iterasi sampai semua syarat batas terpenuhi
 ![image](https://user-images.githubusercontent.com/105741300/169248728-7d6f022d-eda6-43a5-9ad1-4bd6acef288d.png)
 7. Langkah berikutnya membuat script untuk output gambar penyebaran polutan 
 ![image](https://user-images.githubusercontent.com/105741300/169250267-e66e1089-cf64-47c8-9a0f-e1eceac3c16f.png)
-8. Langkah terakhir klik  running script yang terdapat pada menu
+8. Langkah terakhir klik _running script_ yang terdapat pada menu
 ![image](https://user-images.githubusercontent.com/105741300/169250673-f9439955-97ad-45bf-bed9-78e5f07a7892.png)
 
 
 **Modul 3**
 HIDRODINAMIKA 1 DIMENSI
-1. Pembuatan script dan pemodelan dapat dilakukan menggunakan aplikasi Visual Studio Code atau Jupyter Notebook (dibuka melalui Anaconda Prompt (miniconda 3)).
+1. Pembuatan script dan pemodelan dapat dilakukan menggunakan aplikasi _Visual Studio Code_ atau _Jupyter Notebook_ (dibuka melalui _Anaconda Prompt (miniconda 3)_).
 2. Parameter-parameter analisis disesuaikan dengan ketentuan penugasan.
 3. Script ditulis. Script modul 3 Hidrodinamika 1 Dimensi dapat dituliskan sebagai berikut:
 4.
@@ -68,7 +68,7 @@ HIDRODINAMIKA 1 DIMENSI
 ![WhatsApp Image 2022-05-22 at 23 25 24](https://user-images.githubusercontent.com/106017099/169705614-3aab6684-5654-438f-a8a8-6e6520e9fc82.jpeg)
 
 
-8. Lalu akan didapat hasil pemodelan berupa empat buah grafik yang menunjukan hubungan perubahan elevasi muka airlaut dan perubahan kecepatan arus. 
+8. Lalu akan didapat hasil pemodelan berupa empat buah grafik yang menunjukan hubungan perubahan elevasi muka air laut dan perubahan kecepatan arus. 
 # 3. Hasil Pemodelan
 tiap modul
 **Modul 3**
@@ -91,4 +91,5 @@ Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik ya
 ![image](https://user-images.githubusercontent.com/92222622/169678549-fe19ab00-1ccc-4f1e-95f4-647119a0a477.png)
 
 
-# 4. Pemanfaatan Persamaan Adveksi-difusi dan Hidrodinamika di Bidang Oseanografi
+# 4. Pemanfaatan Pemodelan Adveksi-Difusi dan Hidrodinamika di Bidang Oseanografi
+
