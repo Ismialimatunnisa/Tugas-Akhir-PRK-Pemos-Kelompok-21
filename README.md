@@ -91,5 +91,6 @@ Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik ya
 ![image](https://user-images.githubusercontent.com/92222622/169678549-fe19ab00-1ccc-4f1e-95f4-647119a0a477.png)
 
 
-# 4. Pemanfaatan Pemodelan Adveksi-Difusi dan Hidrodinamika di Bidang Oseanografi
+# 4. Pemanfaatan Persamaan Adveksi-Difusi dan Hidrodinamika di Bidang Oseanografi
 
+Persamaan Adveksi-Difusi dan Hidrodinamika digunakan dalam berbagai bidang, utamanya adalah dalam bidang Oseanografi. Persamaan yang akan digunakan terlebih dahulu
