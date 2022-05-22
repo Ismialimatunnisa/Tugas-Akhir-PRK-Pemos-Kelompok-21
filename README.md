@@ -93,4 +93,6 @@ Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik ya
 
 # 4. Pemanfaatan Persamaan Adveksi-Difusi dan Hidrodinamika di Bidang Oseanografi
 
-Persamaan Adveksi-Difusi dan Hidrodinamika digunakan dalam berbagai bidang, utamanya adalah dalam bidang Oseanografi. Persamaan yang akan digunakan terlebih dahulu
+Berbagai fenomena hidro-oseanografi dapat disimulasikan dengan model matematis dengan memperhatikan kondisi parameternya, seperti angin, arus laut, gelombang dan lain-lain. Fenomena aliran san transpor merupakan gejala yang penting untuk dikaji karena mempunyai pengaruh terhadap beberapa studi rekayasa. Fenomena-fenomena tersebut teradi dalam berbagai macam situasi fisik, seperti transfer panas, proses pemisahan zat kimia, aliran fluida dalam media berpori, penyebaran kontaminan dalam cairan dan transpor partikel kecil berupa polutan, garam, sedimen di perairan dangkal.
+
+Persamaan Adveksi-Difusi dan Hidrodinamika digunakan dalam berbagai bidang, utamanya adalah dalam bidang Oseanografi. Persamaan yang akan digunakan terlebih dahulu dilakukan diskritisasi. 
