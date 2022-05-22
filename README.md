@@ -13,6 +13,13 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 # 1. Landasan Teori
 **Difusi-Adveksi**
 
+-DIFUSI-
+Persamaan difusi merupakan representasi perpindahan suatu zat dalam pelarut dari bagian konsentrasi tinggi ke konsentrasi rendah tanpa dipengaruhi oleh kecepatan gerak fluida media.  
+
+-ADVEKSI-
+Persamaan adveksi merupakan persamaan gelombang linier orde satu dan termasuk dalam persamaan differensial hiperbolik yang menggambarkan mekanisme transportasi suatu zat cair dengan arah tertentu. 
+
+
 **Hidrodinamika**
 # 2. Metode 
 masukin script dan cara kerja tiap modul
