@@ -8,7 +8,7 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 4. Danindra Ravideevan Pradipta
 5. Annisa Wizqi Abdul Wakhid
 6. Asifa' Ainur Rokhimah
-7. Nurul Annisa
+7. Nurul Annisa 26050120140078 Oseanografi B
 
 # 1. Landasan Teori
 **Difusi-Adveksi**
