@@ -5,7 +5,7 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 1. Ismi 'Alimatunnisa 26050120120034 Oseanografi A
 2. Gigih Merin Pratiwi 26050120130065 Oseanografi A
 3. Fipi Suyanti 26050120140121 Oseanografi B
-4. Danindra Ravideevan Pradipta
+4. Danindra Ravideevan Pradipta Oseanografi B
 5. Annisa Wizqi Abdul Wakhid
 6. Asifa' Ainur Rokhimah
 7. Nurul Annisa 26050120140078 Oseanografi B
@@ -23,6 +23,28 @@ Persamaan adveksi merupakan persamaan gelombang linier orde satu dan termasuk da
 **Hidrodinamika**
 # 2. Metode 
 masukin script dan cara kerja tiap modul
+
+
+**Modul 2**
+Adveksi Difusi 2D**
+
+1. Buka laman jupyter notebook, kemudian pilih new pyhton 3 untuk membuat script
+![image](https://user-images.githubusercontent.com/105660616/169575203-41673726-0802-48cd-9562-83cce2747e62.png)
+2. Setelah itu lakukan *import library python matploblib, **numpy, dan **sys*
+![image](https://user-images.githubusercontent.com/105741300/169255244-e1b50ab2-a52c-4322-adc2-274199f832f8.png)
+3. Langkah selanjutnya masukan parameter persebaran polutan yang akan digunakan
+![image](https://user-images.githubusercontent.com/105741300/169245860-8eb49961-1fac-436a-ad41-66c719b79c5b.png)
+4. Kemudian dibuat script perhitungan untuk mengetahui persebaran polutan
+![image](https://user-images.githubusercontent.com/105741300/169246416-32b33897-5f23-4d2d-aab0-a8839ec3b67e.png)
+5. Setelah itu membuat script untuk membuatan _grid dari persebaran polutan
+![image](https://user-images.githubusercontent.com/105741300/169247085-4979a547-7888-408f-8e68-e516ba98ca78.png)
+6. Selanjutnya melakukan iterasi sampai semua syarat batas terpenuhi
+![image](https://user-images.githubusercontent.com/105741300/169248728-7d6f022d-eda6-43a5-9ad1-4bd6acef288d.png)
+7. Langkah berikutnya membuat script untuk output gambar penyebaran polutan 
+![image](https://user-images.githubusercontent.com/105741300/169250267-e66e1089-cf64-47c8-9a0f-e1eceac3c16f.png)
+8. Langkah terakhir klik  running script yang terdapat pada menu
+![image](https://user-images.githubusercontent.com/105741300/169250673-f9439955-97ad-45bf-bed9-78e5f07a7892.png)
+
 
 **Modul 3**
 HIDRODINAMIKA 1 DIMENSI
