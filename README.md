@@ -22,6 +22,29 @@ Persamaan adveksi merupakan persamaan gelombang linier orde satu dan termasuk da
 
 
 **Hidrodinamika**
+
+Hidrodinamika terdiri dari 2 suku kata. 
+Hidro berarti "air" dan Dinamika yang berarti "benda bergerak/tenaga yang menggerakkan".
+Hidrodinamika dapat didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari gerak liquid atau gerak fluida cair khususnya gerak air.
+
+-Model Hidrodinamika-
+1. Model yang dibangun dari adanya proses-proses yang mempengaruhi pergerakan massa air
+2. Hukum Konservasi massa/kontinuitas dan hukum momentum
+3. Mensimulasikan elevasi muka air laut dan arus yang dipengaruhi oleh beberapa parameter
+
+-Persamaan-
+
+Persamaan dasarnya ada 2 yaitu momentum dan kontinuitas.
+
+Momentum ![image](https://user-images.githubusercontent.com/105961293/169863703-342881ad-3abd-46ac-b324-37177da4dec2.png)
+
+Kontinuitas ![image](https://user-images.githubusercontent.com/105961293/169863772-e096e76a-1859-4e7f-a20a-08a0b9821dc3.png)
+
+Dimana dibantu dengan persamaan pembangun
+
+![image](https://user-images.githubusercontent.com/105961293/169864444-a72d892e-1201-46e6-9d3d-883dc7ed3159.png) & ![image](https://user-images.githubusercontent.com/105961293/169864497-8bf89895-1de6-47f1-baf9-e48e43b81212.png)
+
+
 # 2. Metode 
 masukin script dan cara kerja tiap modul
 
