@@ -8,7 +8,7 @@ Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunaka
 3. Fipi Suyanti 26050120140121 Oseanografi B
 4. Danindra Ravideevan Pradipta Oseanografi B
 5. Annisa Wizqi Abdul Wakhid
-6. Asifa' Ainur Rokhimah
+6. Asifa' Ainur Rokhimah 26050120130070 Oseanografi A
 7. Nurul Annisa 26050120140078 Oseanografi B
 
 # 1. Landasan Teori
@@ -94,6 +94,28 @@ HIDRODINAMIKA 1 DIMENSI
 
 
 9. Lalu akan didapat hasil pemodelan berupa empat buah grafik yang menunjukan hubungan perubahan elevasi muka air laut dan perubahan kecepatan arus. 
+
+
+**Modul 4**
+HIDRODINAMIKA 2 DIMENSI
+1.	Membuka Anaconda prompt (Miniconda 3)
+2.	Meng-install mandatory library seperti Matplotlib dan Siphon
+3.	Membuka jupyter notebook di website browser
+4.	Membuat script coding dengan stasiun ID sesuai dengan ketentuan pada spreadsheet
+     
+![1](https://user-images.githubusercontent.com/92528305/169967207-b62e6731-7e65-40fa-91ca-dd852c776a4d.jpeg)
+
+![2](https://user-images.githubusercontent.com/92528305/169967557-1f45f8b8-5e97-4640-8f71-e504084f36d6.jpeg)
+     
+5.	Meng-klik ikon run
+
+![5 1](https://user-images.githubusercontent.com/92528305/169970941-b783dc39-0240-4299-a3f2-011ceaf26269.jpeg)
+
+7.	Membuka website NDBC-NOAA dengan link https://www.ndbc.noaa.gov/obs.shtml
+8.	Mencari lokasi stasiunnya sesuai ketentuan stasiun ID di kolom pencarian
+9.	Mengidentifikasi dan menganalisis lokasi buoy yang digunakan dan satisun pengamantan yang didapatkan 
+
+
 # 3. Hasil Pemodelan
 tiap modul
 **Modul 3**
@@ -114,6 +136,22 @@ Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik ya
 **Grafik 4**
 
 ![image](https://user-images.githubusercontent.com/92222622/169678549-fe19ab00-1ccc-4f1e-95f4-647119a0a477.png)
+
+
+**Modul 4**
+Praktikum pemodelan oseanografi modul 4 kali ini menghasilkan beberapa grafik berupa data gelombang, gambar bouy pada statiun 46002, dan combined plot of Wind Speed, Gust, and Air Pressure.
+#
+**Grafik 1**
+
+![4](https://user-images.githubusercontent.com/92528305/169968603-b346b135-36c1-48a7-b5c1-f9dc4b9acfd4.jpeg)
+
+**Gambar 1**
+
+![5](https://user-images.githubusercontent.com/92528305/169968655-b6aa61a5-76ff-4aea-b39e-1fbf18d39c64.jpg)
+
+**Grafik 2**
+
+![6](https://user-images.githubusercontent.com/92528305/169968782-54886a39-f8f1-46d1-bc73-e3856ef4c76e.png)
 
 
 # 4. Pemanfaatan Persamaan Adveksi-Difusi dan Hidrodinamika di Bidang Oseanografi
