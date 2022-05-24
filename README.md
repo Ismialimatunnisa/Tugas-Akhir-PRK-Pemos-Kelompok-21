@@ -117,7 +117,18 @@ HIDRODINAMIKA 2 DIMENSI
 
 
 # 3. Hasil Pemodelan
-tiap modul
+**Modul 2** 
+Hasil yang didapat dari modul 2 Adveksi-Difusi 2D yakni timestamp persebaran polutan dari t=0 hingga ke jangka waktu yang ditentukan pada tetha atau arah tertentu. Berikut adalah contoh hasil modul 2 dari beberapa timestamp pada tetha=43.
+**Running Timestamp 1 dari 208**
+![1](https://user-images.githubusercontent.com/92222622/170141214-7b68e682-b8ca-454f-b4b1-d35640c64319.jpg)
+
+**Running Timestamp 104 dari 208**
+![104](https://user-images.githubusercontent.com/92222622/170141508-18aac2b2-f689-465d-92f8-8230f8ed09ee.jpg)
+
+**Running Timestamp 208 dari 208**
+![208](https://user-images.githubusercontent.com/92222622/170141553-f150d3b9-d1af-4299-95ed-fcf0906f8562.jpg)
+
+Jika timestamp yang diinginkan adalah 208, maka akan ada 208 hasil script, oleh karena itu kami hanya mencantumkan 3 contoh *running script* modul 2.
 
 **Modul 3**
 Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik yang mana salah satunya adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Menurut Triatmodjo (1999), berdasarkan kedalaman relatif, yaitu perbandingan kedalaman air dan panjang gelombang.
