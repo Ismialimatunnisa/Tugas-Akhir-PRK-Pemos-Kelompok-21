@@ -73,9 +73,10 @@ Adveksi-Difusi 2D
 **Modul 3**
 HIDRODINAMIKA 1 DIMENSI
 1. Pembuatan script dan pemodelan dapat dilakukan menggunakan aplikasi _Visual Studio Code_ atau _Jupyter Notebook_ (dibuka melalui _Anaconda Prompt (miniconda 3)_).
-2. Parameter-parameter analisis disesuaikan dengan ketentuan penugasan.
-3. Script ditulis. Script modul 3 Hidrodinamika 1 Dimensi dapat dituliskan sebagai berikut:
-4.
+2. Setelah itu lakukan *import library python matploblib, **numpy, dan *sys
+3. Parameter-parameter analisis disesuaikan dengan ketentuan penugasan.
+4. Script ditulis. Script modul 3 Hidrodinamika 1 Dimensi dapat dituliskan sebagai berikut:
+5.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678228-23cb4aee-5d13-429b-8100-06f95954d045.png)
 
