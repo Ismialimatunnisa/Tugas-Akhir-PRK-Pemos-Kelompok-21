@@ -73,27 +73,27 @@ Adveksi-Difusi 2D
 **Modul 3**
 HIDRODINAMIKA 1 DIMENSI
 1. Pembuatan script dan pemodelan dapat dilakukan menggunakan aplikasi _Visual Studio Code_ atau _Jupyter Notebook_ (dibuka melalui _Anaconda Prompt (miniconda 3)_).
-2. Setelah itu lakukan *import library python matploblib, **numpy, dan *sys
+2. Setelah itu lakukan *import library python matploblib, **numpy as np*
 3. Parameter-parameter analisis disesuaikan dengan ketentuan penugasan.
 4. Script ditulis. Script modul 3 Hidrodinamika 1 Dimensi dapat dituliskan sebagai berikut:
 5.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678228-23cb4aee-5d13-429b-8100-06f95954d045.png)
 
-5.
+6.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678251-3d6cae8d-0ba8-488f-adf9-f9d24b3b74f3.png)
 
-6.
+7.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678261-e88baf82-7338-41d2-84af-7162820c5872.png)
 
-7.
+8.
 
 ![WhatsApp Image 2022-05-22 at 23 25 24](https://user-images.githubusercontent.com/106017099/169705614-3aab6684-5654-438f-a8a8-6e6520e9fc82.jpeg)
 
 
-8. Lalu akan didapat hasil pemodelan berupa empat buah grafik yang menunjukan hubungan perubahan elevasi muka air laut dan perubahan kecepatan arus. 
+9. Lalu akan didapat hasil pemodelan berupa empat buah grafik yang menunjukan hubungan perubahan elevasi muka air laut dan perubahan kecepatan arus. 
 # 3. Hasil Pemodelan
 tiap modul
 **Modul 3**
