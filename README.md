@@ -79,7 +79,7 @@ HIDRODINAMIKA 1 DIMENSI
 
 ![image](https://user-images.githubusercontent.com/92222622/169678228-23cb4aee-5d13-429b-8100-06f95954d045.png)
 
-6. diskretisasi persamaan dengan metode FTCS dan CTCS.
+6. Diskretisasi persamaan dengan metode FTCS dan CTCS.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678251-3d6cae8d-0ba8-488f-adf9-f9d24b3b74f3.png)
 
