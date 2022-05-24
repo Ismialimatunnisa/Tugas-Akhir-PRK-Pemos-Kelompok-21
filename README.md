@@ -46,7 +46,6 @@ Dimana dibantu dengan persamaan pembangun
 
 
 # 2. Metode 
-masukin script dan cara kerja tiap modul
 
 
 **Modul 2**
@@ -76,20 +75,21 @@ HIDRODINAMIKA 1 DIMENSI
 2. Setelah itu lakukan *import library python matploblib, **numpy as np*
 3. Parameter-parameter analisis disesuaikan dengan ketentuan penugasan.
 4. Script ditulis. Script modul 3 Hidrodinamika 1 Dimensi dapat dituliskan sebagai berikut:
-5.
+5. Import dan parameter-parameter serta persamaan-persamaan diinput.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678228-23cb4aee-5d13-429b-8100-06f95954d045.png)
 
-6.
+6. diskretisasi persamaan dengan metode FTCS dan CTCS.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678251-3d6cae8d-0ba8-488f-adf9-f9d24b3b74f3.png)
 
-7.
+7. Script untuk menghasilkan grafik diketik.
 
 ![image](https://user-images.githubusercontent.com/92222622/169678261-e88baf82-7338-41d2-84af-7162820c5872.png)
 
-8.
+8. Ikon "Run" diklik dan akan menghasilkan output gambar.
 
+![image](https://user-images.githubusercontent.com/105741300/169250673-f9439955-97ad-45bf-bed9-78e5f07a7892.png)
 ![WhatsApp Image 2022-05-22 at 23 25 24](https://user-images.githubusercontent.com/106017099/169705614-3aab6684-5654-438f-a8a8-6e6520e9fc82.jpeg)
 
 
