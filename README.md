@@ -118,6 +118,7 @@ HIDRODINAMIKA 2 DIMENSI
 
 # 3. Hasil Pemodelan
 tiap modul
+
 **Modul 3**
 Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik yang mana salah satunya adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Menurut Triatmodjo (1999), berdasarkan kedalaman relatif, yaitu perbandingan kedalaman air dan panjang gelombang.
 # 
