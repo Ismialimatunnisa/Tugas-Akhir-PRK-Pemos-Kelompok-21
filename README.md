@@ -6,7 +6,7 @@ Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunaka
 1. Ismi 'Alimatunnisa 26050120120034 Oseanografi A
 2. Gigih Merin Pratiwi 26050120130065 Oseanografi A
 3. Fipi Suyanti 26050120140121 Oseanografi B
-4. Danindra Ravideevan Pradipta Oseanografi B
+4. Danindra Ravideevan Pradipta 26050120140157 Oseanografi B
 5. Annisa Wizqi Abdul Wakhid
 6. Asifa' Ainur Rokhimah 26050120130070 Oseanografi A
 7. Nurul Annisa 26050120140078 Oseanografi B
