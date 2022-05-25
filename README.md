@@ -173,7 +173,18 @@ HIDRODINAMIKA 2 DIMENSI
 
 
 # 3. Hasil Pemodelan
-tiap modul
+**Modul 2**
+Dari praktikum pemodelan oseanografi modul 2, diperoleh beberapa gambar yang menunjukan sebaran polutan dalam jangka *timestamp* tertentu. Dari gambar-gambar itu nantinya akan menunjukan pergerakan polutan dan arahnya. Berikut adalah contoh gambar yang dihasilkan pada beberapa *timestamp* pada tetha=43:
+*Running Timestamp* 1 dari 208
+![1](https://user-images.githubusercontent.com/92222622/170180682-0224c253-2e0b-4c4e-a904-8b5602bf07b0.jpg)
+
+*Running Timestamp* 104 dari 208
+![104](https://user-images.githubusercontent.com/92222622/170180763-92322179-7b1f-4580-89e4-e33b40c10840.jpg)
+
+*Running Timestamp* 208 dari 208
+![208](https://user-images.githubusercontent.com/92222622/170180808-0f4dbb3c-01e1-4a38-8cc2-a4d812a6e8ce.jpg)
+
+Apabila *timestamp* yang diinginkan adalah 208, maka akan ada 208 gambar. Untuk melihat persebaran polutan, maka harus dijadikan satu dalam bentuk video berupa penggabungan gambar-gambar. Karena jumlah gambar yang banyak, maka kelompok kami hanya mencantumkan 3 contoh gambar dari *running script* modul 2.
 **Modul 3**
 Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik yang mana salah satunya adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Menurut Triatmodjo (1999), berdasarkan kedalaman relatif, yaitu perbandingan kedalaman air dan panjang gelombang.
 # 
