@@ -76,6 +76,7 @@ Persamaan Adveksi-Difusi 2 Dimensi
 ![image](https://user-images.githubusercontent.com/106005752/170161146-01a32078-73fa-4386-8ccd-d642a981522c.png)
 
 -Perbedaan Skema Hidrodinamika 1 dimensi dan 2 dimensi- 
+
 1 dimensi:
 1. Sebuah penampung diambil tegak  lurus terhadap aliran sungai (x)
 2. Kecepatan seragam melintasi penampang
