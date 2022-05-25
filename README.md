@@ -65,9 +65,15 @@ Dengan mendefinisikan ![image](https://user-images.githubusercontent.com/1060057
 -Persamaan Adveksi 2 Dimensi-
 
 ![image](https://user-images.githubusercontent.com/106005752/170160526-9a50ad9e-71f9-4dbc-83fd-bdb07617a3f1.png)
-Proses dikritasi model 2 D >> Model eksplisit upstream ![image](https://user-images.githubusercontent.com/106005752/170160824-7f1b1991-09fd-44f1-a934-0d628c9d3aad.png)
+
+Proses dikritasi model 2 D >> Model eksplisit upstream
+
+![image](https://user-images.githubusercontent.com/106005752/170160824-7f1b1991-09fd-44f1-a934-0d628c9d3aad.png)
+
 Perbedaannya ada penambahan disuku ke-3 (proses persamaan yang menggambarkan proses adveksi suatu materi sehingga untuk membantu penyelesaian persamaan model 2D yang mendekati proses kejadian di alam kita melakukan deksritisasi. maka dari itu akan diturunkan lagi menjadi persamaan:
-Persamaan Adveksi-Difusi 2 Dimensi ![image](https://user-images.githubusercontent.com/106005752/170161146-01a32078-73fa-4386-8ccd-d642a981522c.png)
+Persamaan Adveksi-Difusi 2 Dimensi
+
+![image](https://user-images.githubusercontent.com/106005752/170161146-01a32078-73fa-4386-8ccd-d642a981522c.png)
 
 -Perbedaan Skema Hidrodinamika 1 dimensi dan 2 dimensi- 
 1 dimensi:
