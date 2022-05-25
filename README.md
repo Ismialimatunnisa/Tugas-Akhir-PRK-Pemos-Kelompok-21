@@ -6,7 +6,7 @@ Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunaka
 1. Ismi 'Alimatunnisa 26050120120034 Oseanografi A
 2. Gigih Merin Pratiwi 26050120130065 Oseanografi A
 3. Fipi Suyanti 26050120140121 Oseanografi B
-4. Danindra Ravideevan Pradipta 26050120140157 Oseanografi B
+4. Danindra Ravideevan Pradipta Oseanografi B
 5. Annisa Wizqi Abdul Wakhid
 6. Asifa' Ainur Rokhimah 26050120130070 Oseanografi A
 7. Nurul Annisa 26050120140078 Oseanografi B
@@ -15,7 +15,7 @@ Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunaka
 **Difusi-Adveksi**
 
 -DIFUSI-
-Persamaan difusi merupakan representasi perpindahan suatu zat dalam pelarut dari bagian konsentrasi tinggi ke konsentrasi rendah tanpa dipengaruhi oleh kecepatan gerak fluida media.  
+Persamaan difusi merupakan representasi perpindahan suatu zat dalam pelarut dari bagian konsentrasi tinggi ke konsentrasi rendah tanpa dipengaruhi oleh kecepatan gerak fluida media dan konsentrasi.
 
 -ADVEKSI-
 Persamaan adveksi merupakan persamaan gelombang linier orde satu dan termasuk dalam persamaan differensial hiperbolik yang menggambarkan mekanisme transportasi suatu zat cair dengan arah tertentu. 
@@ -25,7 +25,19 @@ Persamaan adveksi merupakan persamaan gelombang linier orde satu dan termasuk da
 
 Hidrodinamika terdiri dari 2 suku kata. 
 Hidro berarti "air" dan Dinamika yang berarti "benda bergerak/tenaga yang menggerakkan".
-Hidrodinamika dapat didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari gerak liquid atau gerak fluida cair khususnya gerak air.
+Hidrodinamika dapat didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari gerak liquid atau gerak fluida cair khususnya gerak air. Pada dasarnya bidang yang dianggap sebagai matematika terapan karena berkaitan denganperlakuan matematis dari persamaan dasar untuk akontinum fluida yang diperoleh pada Newtonian dasar. Sehingga hidrodinamika juga merupakan dasar ilmu dari hidrolika dan oseanografi. Dimana konsep fisis hidrodinamika termasuk titik pusat untuk memahami fenomena fisis dengan cara formulasi matematikanya. Yang mana dasar dari studi hindrodinamika ini memiliki konsep massa dan partikel fluida.
+
+-Skema Hidrodinamika 1 dimensi dan 2 dimensi-
+1 dimensi:
+1. Sebuah penampung diambil tegak  lurus terhadap aliran sungai (x)
+2. Kecepatan seragam melintasi penampang
+3. Water lavel seragam di seluruh penampang oleh kedalaman
+
+2 dimensi:
+1. Kecepatan dari arus dan gelombang tidak pernah sama
+2. lebih baik diterapkan pada kemiringan yang lebih curam
+3. Kedalaman airnya tidak pernah sama
+4. Daerah yang direpresentasikan sebagai permukaan kontinu tidak hanya satu titik, aan sepan  (x,y)
 
 -Model Hidrodinamika-
 1. Model yang dibangun dari adanya proses-proses yang mempengaruhi pergerakan massa air
@@ -117,19 +129,7 @@ HIDRODINAMIKA 2 DIMENSI
 
 
 # 3. Hasil Pemodelan
-**Modul 2** 
-Hasil yang didapat dari modul 2 Adveksi-Difusi 2D yakni timestamp persebaran polutan dari t=0 hingga ke jangka waktu yang ditentukan pada tetha atau arah tertentu. Berikut adalah contoh hasil modul 2 dari beberapa timestamp pada tetha=43.
-**Running Timestamp 1 dari 208**
-![1](https://user-images.githubusercontent.com/92222622/170141214-7b68e682-b8ca-454f-b4b1-d35640c64319.jpg)
-
-**Running Timestamp 104 dari 208**
-![104](https://user-images.githubusercontent.com/92222622/170141508-18aac2b2-f689-465d-92f8-8230f8ed09ee.jpg)
-
-**Running Timestamp 208 dari 208**
-![208](https://user-images.githubusercontent.com/92222622/170141553-f150d3b9-d1af-4299-95ed-fcf0906f8562.jpg)
-
-Jika timestamp yang diinginkan adalah 208, maka akan ada 208 hasil script, oleh karena itu kami hanya mencantumkan 3 contoh *running script* modul 2.
-
+tiap modul
 **Modul 3**
 Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik yang mana salah satunya adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Menurut Triatmodjo (1999), berdasarkan kedalaman relatif, yaitu perbandingan kedalaman air dan panjang gelombang.
 # 
