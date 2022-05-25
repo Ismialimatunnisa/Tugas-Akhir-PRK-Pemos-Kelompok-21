@@ -27,7 +27,12 @@ Hidrodinamika terdiri dari 2 suku kata.
 Hidro berarti "air" dan Dinamika yang berarti "benda bergerak/tenaga yang menggerakkan".
 Hidrodinamika dapat didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari gerak liquid atau gerak fluida cair khususnya gerak air. Pada dasarnya bidang yang dianggap sebagai matematika terapan karena berkaitan denganperlakuan matematis dari persamaan dasar untuk akontinum fluida yang diperoleh pada Newtonian dasar. Sehingga hidrodinamika juga merupakan dasar ilmu dari hidrolika dan oseanografi. Dimana konsep fisis hidrodinamika termasuk titik pusat untuk memahami fenomena fisis dengan cara formulasi matematikanya. Yang mana dasar dari studi hindrodinamika ini memiliki konsep massa dan partikel fluida.
 
--Skema Hidrodinamika 1 dimensi dan 2 dimensi-
+-Model Hidrodinamika-
+1. Model yang dibangun dari adanya proses-proses yang mempengaruhi pergerakan massa air
+2. Hukum Konservasi massa/kontinuitas dan hukum momentum
+3. Mensimulasikan elevasi muka air laut dan arus yang dipengaruhi oleh beberapa parameter
+
+-Perbedaan Skema Hidrodinamika 1 dimensi dan 2 dimensi- 
 1 dimensi:
 1. Sebuah penampung diambil tegak  lurus terhadap aliran sungai (x)
 2. Kecepatan seragam melintasi penampang
@@ -38,11 +43,6 @@ Hidrodinamika dapat didefinisikan sebagai salah satu cabang ilmu pengetahuan yan
 2. lebih baik diterapkan pada kemiringan yang lebih curam
 3. Kedalaman airnya tidak pernah sama
 4. Daerah yang direpresentasikan sebagai permukaan kontinu tidak hanya satu titik, aan sepan  (x,y)
-
--Model Hidrodinamika-
-1. Model yang dibangun dari adanya proses-proses yang mempengaruhi pergerakan massa air
-2. Hukum Konservasi massa/kontinuitas dan hukum momentum
-3. Mensimulasikan elevasi muka air laut dan arus yang dipengaruhi oleh beberapa parameter
 
 -Persamaan-
 
