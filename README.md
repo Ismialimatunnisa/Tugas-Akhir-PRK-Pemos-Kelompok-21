@@ -15,7 +15,7 @@ Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunaka
 **Difusi-Adveksi**
 
 -DIFUSI-
-Persamaan difusi merupakan representasi perpindahan suatu zat dalam pelarut dari bagian konsentrasi tinggi ke konsentrasi rendah tanpa dipengaruhi oleh kecepatan gerak fluida media dan konsentrasi.
+Persamaan difusi merupakan representasi perpindahan suatu zat dalam pelarut dari bagian konsentrasi tinggi ke konsentrasi rendah tanpa dipengaruhi oleh kecepatan gerak fluida media dan konsentrasi, sehingga akan menghasilkan konsentrasi yang sama di dalam zat tersebut.
 
 -ADVEKSI-
 Persamaan adveksi merupakan persamaan gelombang linier orde satu dan termasuk dalam persamaan differensial hiperbolik yang menggambarkan mekanisme transportasi suatu zat cair dengan arah tertentu. 
