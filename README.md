@@ -7,7 +7,7 @@ Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunaka
 2. Gigih Merin Pratiwi 26050120130065 Oseanografi A
 3. Fipi Suyanti 26050120140121 Oseanografi B
 4. Danindra Ravideevan Pradipta Oseanografi B
-5. Annisa Wizqi Abdul Wakhid
+5. Annisa Rizqi Abdul Wakhid 26050120140052 Oseanografi B
 6. Asifa' Ainur Rokhimah 26050120130070 Oseanografi A
 7. Nurul Annisa 26050120140078 Oseanografi B
 
@@ -181,3 +181,4 @@ Manfaat dari persamaan adveksi-difusi adalah:
 Manfaat dari persamaan hidrodinamika adalah:
 1. Pemodelan gelombang yang ditimbulkan oleh angin laut
 2. Pemodelan dinamika pantai
+3. Pemodelan pasang surut
