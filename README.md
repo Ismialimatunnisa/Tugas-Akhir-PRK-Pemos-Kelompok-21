@@ -7,7 +7,7 @@ Dalam repositori ini terdapat landasan teori pada setiap persamaan yang digunaka
 2. Gigih Merin Pratiwi 26050120130065 Oseanografi A
 3. Fipi Suyanti 26050120140121 Oseanografi B
 4. Danindra Ravideevan Pradipta Oseanografi B
-5. Annisa Rizqi Abdul Wakhid 26050120140052 Oseanografi B
+5. Annisa Wizqi Abdul Wakhid 26050120140052 Oseanografi B
 6. Asifa' Ainur Rokhimah 26050120130070 Oseanografi A
 7. Nurul Annisa 26050120140078 Oseanografi B
 
@@ -20,7 +20,6 @@ Persamaan difusi merupakan representasi perpindahan suatu zat dalam pelarut dari
 -ADVEKSI-
 Persamaan adveksi merupakan persamaan gelombang linier orde satu dan termasuk dalam persamaan differensial hiperbolik yang menggambarkan mekanisme transportasi suatu zat cair dengan arah tertentu. 
 
-
 **Hidrodinamika**
 
 Hidrodinamika terdiri dari 2 suku kata. 
@@ -31,6 +30,34 @@ Hidrodinamika dapat didefinisikan sebagai salah satu cabang ilmu pengetahuan yan
 1. Model yang dibangun dari adanya proses-proses yang mempengaruhi pergerakan massa air
 2. Hukum Konservasi massa/kontinuitas dan hukum momentum
 3. Mensimulasikan elevasi muka air laut dan arus yang dipengaruhi oleh beberapa parameter
+
+-Persamaan Rumus 1 Dimensi_
+Adveksi ![image](https://user-images.githubusercontent.com/106005752/170158194-05e36c0c-f9e0-49a6-94e7-97e51b72aef9.png)
+Difusi ![image](https://user-images.githubusercontent.com/106005752/170158342-7e107c23-5fda-4ae1-a4eb-8258d0874337.png)
+
+-Persamman Adveksi 1 Dinemsi-
+Persamaan Eksplisit:
+1. Metode FTCS, metode ini merupakan gabungan dari selisih maju terhadap waktu dan selisih pusat terhadap ruang.
+FTCS (Forward Time Central Space) ![image](https://user-images.githubusercontent.com/106005752/170158510-b9f7a362-124a-4ef0-a9b3-6c9ecc6782e2.png)
+
+3. Metode Leap Frog (CTCS), dalam metode beda hingga ini terdapat suatu skema yang didaptkan dari turunan deret taylor dan tergolong ke dalam skema yang konsisten (apabila nilai C kurang dari sama dengan 1).
+CTCS (Center in Time and Central in Space ![image](https://user-images.githubusercontent.com/106005752/170158625-da32058c-4c71-4232-8f28-87d9152cc0cb.png)
+
+5. Metode Up Stream, metode ini merupakan skema yang digunakan untuk melengkapi ketidak sempurnaan dari metode sebelumnya, yaitu leapfrog dengan menggunakan pendekatan beda maju untuk turunan waktu, sedangkan untuk turunan terhadap ruang dilakukan dengan melihat arah u. jika u>0 FTBS dan jika u<0 FTFS
+FTBS, turunan terhadap ruang (beda maju) ![image](https://user-images.githubusercontent.com/106005752/170159055-a26f3721-ff22-4906-8a1c-a33531f96884.png)
+
+FTFS, turunan terhadap ruang (beda mundur) ![image](https://user-images.githubusercontent.com/106005752/170159318-82dfa3bc-bf5d-48e7-afa9-50b7be038fcf.png)
+
+Persamaan Implisit:
+Metode Crank Nicholson ![image](https://user-images.githubusercontent.com/106005752/170159680-c4d648dc-94e4-42f7-bf12-2dc1220c086e.png)
+Dengan mendefinisikan ![image](https://user-images.githubusercontent.com/106005752/170159814-ca510d5a-928a-46a9-a85e-ea699136cc19.png) dan u konstan, persamaan di atas dapat ditulis:
+![image](https://user-images.githubusercontent.com/106005752/170159881-a786af3d-b434-4538-9b1b-01a8e1885f79.png)
+
+-Persamaan Adveksi 2 Dimensi-
+![image](https://user-images.githubusercontent.com/106005752/170160526-9a50ad9e-71f9-4dbc-83fd-bdb07617a3f1.png)
+Proses dikritasi model 2 D >> Model eksplisit upstream ![image](https://user-images.githubusercontent.com/106005752/170160824-7f1b1991-09fd-44f1-a934-0d628c9d3aad.png)
+Perbedaannya ada penambahan disuku ke-3 (proses persamaan yang menggambarkan proses adveksi suatu materi sehingga untuk membantu penyelesaian persamaan model 2D yang mendekati proses kejadian di alam kita melakukan deksritisasi. maka dari itu akan diturunkan lagi menjadi persamaan:
+Persamaan Adveksi-Difusi 2 Dimensi ![image](https://user-images.githubusercontent.com/106005752/170161146-01a32078-73fa-4386-8ccd-d642a981522c.png)
 
 -Perbedaan Skema Hidrodinamika 1 dimensi dan 2 dimensi- 
 1 dimensi:
@@ -181,4 +208,3 @@ Manfaat dari persamaan adveksi-difusi adalah:
 Manfaat dari persamaan hidrodinamika adalah:
 1. Pemodelan gelombang yang ditimbulkan oleh angin laut
 2. Pemodelan dinamika pantai
-3. Pemodelan pasang surut
