@@ -185,6 +185,7 @@ Dari praktikum pemodelan oseanografi modul 2, diperoleh beberapa gambar yang men
 ![208](https://user-images.githubusercontent.com/92222622/170180808-0f4dbb3c-01e1-4a38-8cc2-a4d812a6e8ce.jpg)
 
 Apabila *timestamp* yang diinginkan adalah 208, maka akan ada 208 gambar. Untuk melihat persebaran polutan, maka harus dijadikan satu dalam bentuk video berupa penggabungan gambar-gambar. Karena jumlah gambar yang banyak, maka kelompok kami hanya mencantumkan 3 contoh gambar dari *running script* modul 2.
+
 **Modul 3**
 Praktikum pemodelan oseanografi modul 3 kali ini menghasilkan beberapa grafik yang mana salah satunya adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Menurut Triatmodjo (1999), berdasarkan kedalaman relatif, yaitu perbandingan kedalaman air dan panjang gelombang.
 # 
