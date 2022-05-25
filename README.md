@@ -175,6 +175,7 @@ HIDRODINAMIKA 2 DIMENSI
 # 3. Hasil Pemodelan
 **Modul 2**
 Dari praktikum pemodelan oseanografi modul 2, diperoleh beberapa gambar yang menunjukan sebaran polutan dalam jangka *timestamp* tertentu. Dari gambar-gambar itu nantinya akan menunjukan pergerakan polutan dan arahnya. Berikut adalah contoh gambar yang dihasilkan pada beberapa *timestamp* pada tetha=43:
+
 *Running Timestamp* 1 dari 208
 ![1](https://user-images.githubusercontent.com/92222622/170180682-0224c253-2e0b-4c4e-a904-8b5602bf07b0.jpg)
 
